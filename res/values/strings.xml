@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Terminal UDP</string>
+    
+    <string name="localPort">Local Port</string>
+    <string name="ip_address">Destination IP</string>
+    <string name="port">Destination Port</string>
+    <string name="send">Send</string>
+    <string name="payload">Message</string>
+</resources>
