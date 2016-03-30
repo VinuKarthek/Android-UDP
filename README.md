@@ -6,8 +6,7 @@ for production uses. NO WARRANTY IS PROVIDED.
 That said, if it serves for your purposes, you are free
 to copy, use and distribute under BSD license terms.
 
-att,
-JrBenito.
+
 
 FUNCTION
 ========
